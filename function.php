@@ -1,7 +1,3 @@
 <php>
-
-blablablablabla
-
-épiCtou
-
+echo "Mon code";
 </php>
